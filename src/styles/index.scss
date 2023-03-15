@@ -1,0 +1,18 @@
+@import './pages/homepage.scss';
+@import './pages/productpage.scss';
+@import './pages/productspage.scss';
+@import './components/Navbar.scss';
+@import './components/Slider.scss';
+@import './components/Card.scss';
+@import './components/FeaturedProducts.scss';
+@import './components/Category.scss';
+@import './components/Contact.scss';
+@import './components/List.scss';
+@import './components/Cart.scss';
+
+.app{
+    .link{
+        color: inherit;
+        text-decoration: none;
+    }
+}
