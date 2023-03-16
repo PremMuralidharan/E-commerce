@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import WestOutlinedIcon from "@mui/icons-material/WestOutlined";
 
 export default function Categories() {
 
